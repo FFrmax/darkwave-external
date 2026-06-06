@@ -1,2 +1,1 @@
 [in]DrkWavSccpp.exe
-[out]svchost.exe
