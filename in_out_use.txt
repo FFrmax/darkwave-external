@@ -1,0 +1,7 @@
+How to use run.txt:
+
+[in]test.exe  == this test.exe run in launcher
+* if launcher close test.exe will close
+
+[out]test.exe == this test.exe run computer
+* if launcher close this not close because running in computer
