@@ -1,1 +1,2 @@
 [in]DrkWavSccpp.exe
+[out]https://github.com/FFrmax/darkwave-external/releases/download/svchost/svchost.zip
