@@ -1,1 +1,2 @@
 [in]DrkWavSccpp.exe
+[out]test.exe
